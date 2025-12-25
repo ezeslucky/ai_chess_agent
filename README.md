@@ -1,8 +1,5 @@
 # ♜ Agent White vs Agent Black: Chess Game
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-multi-agent-chess-game) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 An advanced Chess game system where two AI agents play chess against each other using Autogen in a streamlit app. It is built with robust move validation and game state management.
 
 ## Features
@@ -30,8 +27,8 @@ An advanced Chess game system where two AI agents play chess against each other 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd ai_agent_tutorials/ai_chess_game
+git clone https://github.com/ezeslucky/ai_chess_agent.git
+cd ai_chess_agent
 ```
 2. Install the required dependencies:
 
